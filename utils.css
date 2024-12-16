@@ -1,0 +1,16 @@
+:root {
+    --clr-accent: #5b21b6; /* tailwind css: violet-800*/
+    --clr-acc2: #2e1065; /* tailwind css: violet-950*/
+    --slate-50: #f8fafc;
+    --slate-100: #f1f5f9;
+    --violet-50: #f5f3ff;
+    --clr-conf: #22c55e;
+    --clr-neg: #ef4444;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
